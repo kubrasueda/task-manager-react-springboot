@@ -51,7 +51,7 @@ http://localhost:5173
 
 ## Screenshots
 
-(Add your screenshot here later)
+![App Screenshot](screenshot.png)
 
 ## Future Improvements
 
